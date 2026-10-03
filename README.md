@@ -24,8 +24,6 @@
 ## 📌 Projects
 
 - Amazon Webpage — HTML & CSS
-- DSA Practice — Python
-- DSDLAB — Data Structures Lab
 
 ## 🎯 Goal
 
