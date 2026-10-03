@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abhinay Mannam 👋
 
-<!--
-**Abhinay-mannam/Abhinay-mannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Dual Degree Student  
+💻 Aspiring Full Stack Developer  
+🐍 Python | JavaScript | SQL  
+🧠 DSA & Problem Solving
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms
+- JavaScript
+- SQL & DBMS
+- Full Stack Development
+- Python Backend Development
+
+## 🛠️ Skills
+
+**Languages:** Python, JavaScript, SQL
+
+**Web:** HTML, CSS
+
+**Tools:** Git, GitHub, PyCharm, MySQL
+
+## 📌 Projects
+
+- Amazon Webpage — HTML & CSS
+- DSA Practice — Python
+- DSDLAB — Data Structures Lab
+
+## 🎯 Goal
+
+Building strong problem-solving skills and becoming a professional Full Stack Developer.
+
+## 📫 Contact
+
+Email: abhimannam9@gmail.com
